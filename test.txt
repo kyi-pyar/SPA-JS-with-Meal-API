@@ -1,3 +1,4 @@
 from computer B.
 hello from computer A.
 hello from computer A to conflict.
+hello from computer B for conflict.
